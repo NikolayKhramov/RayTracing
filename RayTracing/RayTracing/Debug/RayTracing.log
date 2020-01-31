@@ -1,0 +1,27 @@
+﻿  Source.cpp
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\vec3.h(57): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\vec3.h(136): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\hitablelist.h(20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\camera.h(12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\material.h(18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\material.h(19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\material.h(20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\material.h(35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(24): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(25): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(27): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(30): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(33): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(40): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(41): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(49): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(56): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(62): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(75): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(76): warning C4305: аргумент: усечение из "double" в "float"
+d:\programming\my programs\raytracinginoneweekend\raytracing\raytracing\source.cpp(76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  RayTracing.vcxproj -> D:\Programming\My programs\RayTracingInOneWeekEnd\RayTracing\Debug\RayTracing.exe
